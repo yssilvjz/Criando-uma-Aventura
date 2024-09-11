@@ -14,11 +14,11 @@ button {
     color: white;
     font-family: "Raleway", sans-serif;
 }
-.Passo{
+.passo{
     display: none; 
 
  }
-.Passo.ativo{
+.passo.ativo{
     display: block;
  }
  main{
